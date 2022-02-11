@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":16,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":14,},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
