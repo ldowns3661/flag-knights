@@ -27,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object7",
+  "name": "hud",
   "tags": [],
   "resourceType": "GMObject",
 }

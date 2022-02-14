@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-right = keyboard_check(vk_numpad6);
-left = keyboard_check(vk_numpad4);
-jump = keyboard_check_pressed(vk_numpad8);
+right = keyboard_check(vk_right);
+left = keyboard_check(vk_left);
+jump = keyboard_check_pressed(vk_up);
 
 xdirection = right - left;
 

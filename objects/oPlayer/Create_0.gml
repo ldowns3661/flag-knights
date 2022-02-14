@@ -2,6 +2,7 @@
 // You can write your code in this editor
 global.OPoints = 0;
 
+Flag1 = false
 
 xspeed = 4;
 
