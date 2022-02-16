@@ -1,16 +1,15 @@
 {
   "resources": [
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":14,},
     {"id":{"name":"hud","path":"objects/hud/hud.yy",},"order":6,},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"oGoal2","path":"objects/oGoal2/oGoal2.yy",},"order":5,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"oFlagSpawnPoint","path":"objects/oFlagSpawnPoint/oFlagSpawnPoint.yy",},"order":7,},
     {"id":{"name":"sprite1","path":"sprites/sprite1/sprite1.yy",},"order":0,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":5,},
     {"id":{"name":"oPlayer2","path":"objects/oPlayer2/oPlayer2.yy",},"order":2,},
-    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":15,},
     {"id":{"name":"oGoal1","path":"objects/oGoal1/oGoal1.yy",},"order":4,},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},"order":3,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},

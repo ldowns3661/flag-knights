@@ -3,7 +3,8 @@
 
 if Flag = true
 {global.Spoints +=1;
- Flag = false	
+	instance_create_layer(random_range(0,1024),random_range(0,736),"Instances",oFlag);
+ Flag = false;
 	}
 	
 	
