@@ -3,7 +3,7 @@
 global.OPoints = 0;
 
 
-Flag1 = false
+Flag = false
 
 xspeed = 4;
 

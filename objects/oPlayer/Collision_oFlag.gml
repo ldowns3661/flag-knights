@@ -5,7 +5,7 @@
 
 
 instance_destroy(other)
-Flag1 = true;
+Flag = true;
 
  
  
