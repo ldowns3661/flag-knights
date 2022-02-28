@@ -18,10 +18,10 @@ checkcollisionsy()
 
 //exit state condition
 	if (place_meeting(x, y + 1, oFloor) and (jump))
-{
+	{
 
-state
+	state = states.jumping
 
-}
+	}
 
 }

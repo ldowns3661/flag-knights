@@ -4,8 +4,7 @@
 enum states
 {
 walking,
-jumping,
-
+jumping
 }
 
 state = states.walking;
