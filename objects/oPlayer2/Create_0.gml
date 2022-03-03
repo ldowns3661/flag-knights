@@ -26,4 +26,4 @@ yvector = 0;
 
 //gravity
 grv = .3;
-jumpforce = -12;
+jumpforce = -11;

@@ -1,11 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-enum states
-{
-walking,
-jumping
-}
 
 state = states.walking;
 
@@ -15,7 +10,7 @@ player = 1;
 
 Flag = false
 
-xspeed = 5;
+xspeed = 4;
 
 xdirection = 0;
 
