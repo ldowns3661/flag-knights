@@ -5,8 +5,11 @@ function Splayerwalking()
 checkinputs();
 
 xdirection = right - left;
-
-xvector = xspeed * xdirection;
+if (xdirection != 0)
+{
+	image_xscale = xdirection;
+}
+xvector = xspeed * xdirection; 
 
 
 checkcollisionsx()
