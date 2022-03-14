@@ -13,11 +13,11 @@ if (xdirection != 0)
 }
 
 }
-	
-	movex();
-	movey();
-	
+yvector = yvector + grv;
+checkcollisionsy()
 
+xvector = xspeed * xdirection;
+	
 	//exit state condition
 	if (place_meeting(x, y + 1, oFloor))
 	{
