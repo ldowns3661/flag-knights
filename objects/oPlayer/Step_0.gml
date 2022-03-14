@@ -1,2 +1,11 @@
-script_execute(state_array[state]);
-sprite_index = sprite_array[state];
+
+if (state == states.walking)
+{
+Splayerwalking();
+}
+
+else if (state == states.jumping)
+{
+Splayerjumping();
+}
+
