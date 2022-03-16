@@ -3,7 +3,10 @@
 function Splayerjumping()
 {
 yvector = jumpforce;
-
+if (xdirection != 0)
+{
+image_xscale = xdirection
+}
 	//exit state condition
 	if (place_meeting(x, y + 1, oFloor))
 	{
