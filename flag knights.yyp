@@ -19,6 +19,7 @@
     {"id":{"name":"checkcollisions","path":"scripts/checkcollisions/checkcollisions.yy",},"order":0,},
     {"id":{"name":"oGoal1","path":"objects/oGoal1/oGoal1.yy",},"order":4,},
     {"id":{"name":"P1j","path":"sprites/P1j/P1j.yy",},"order":9,},
+    {"id":{"name":"hasflag","path":"scripts/hasflag/hasflag.yy",},"order":5,},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},"order":3,},
     {"id":{"name":"P1w","path":"sprites/P1w/P1w.yy",},"order":8,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},

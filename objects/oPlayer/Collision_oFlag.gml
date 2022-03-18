@@ -1,12 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-
-
-instance_destroy(other)
-Flag = true;
-
+script_execute(state_array[state]);
  
  
  

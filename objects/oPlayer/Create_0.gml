@@ -4,6 +4,7 @@
 
 state_array[states.walking] = Splayerwalking;
 state_array[states.jumping] = Splayerjumping;
+state_array[states.hasflag] = hasflag;
 
 sprite_array[states.walking]= P1w;
 sprite_array[states.jumping]= P1j;
