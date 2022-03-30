@@ -14,4 +14,5 @@ function checkinputs(){
 		left = keyboard_check(vk_left);
 		jump = keyboard_check(vk_up);
 	}
+
 }
