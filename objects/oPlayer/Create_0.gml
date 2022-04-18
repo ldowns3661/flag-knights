@@ -17,7 +17,7 @@ player = 1;
 
 Flag = false
 
-xspeed = 4;
+xspeed = 4.2;
 
 xdirection = 0;
 
