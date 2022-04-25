@@ -15,6 +15,8 @@ state = states.walking;
 global.OPoints = 0;
 player = 1;
 
+puzzles = false
+
 Flag = false
 
 xspeed = 4.2;
