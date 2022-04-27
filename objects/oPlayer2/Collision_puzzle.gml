@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-	instance_destroy(puzzle)
+	instance_destroy(puzzle);
 	puzzles = true;

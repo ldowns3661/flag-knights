@@ -4,7 +4,7 @@
 
 if Flag = true
 {
-	global.OPoints +=1;
+	global.OPoints +=2;
 	//get spawn point x,y
 	var inst = instance_find(oFlagSpawnPoint, irandom(instance_number(oFlagSpawnPoint) - 1));
 	instance_create_layer(inst.x,inst.y+32,"Instances",oFlag);
