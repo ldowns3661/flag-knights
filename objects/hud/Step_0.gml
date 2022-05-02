@@ -18,3 +18,18 @@ if Timer <= 0
 room_restart();
 }
 }
+
+
+
+if global.OPoints <0
+{
+room_restart();
+}
+
+
+if global.Spoints <0
+{
+
+room_restart();
+
+}
