@@ -156,8 +156,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "flag knights",
+    "path": "flag knights.yyp",
   },
   "resourceVersion": "1.0",
   "name": "P1j",
