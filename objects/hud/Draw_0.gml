@@ -9,7 +9,7 @@ draw_text(451,381,"Ogre wins")
 
 }
 
-if global.Spoints = 10
+if global.Spoints =10
 {
 draw_text(451,381,"slime wins")
 
