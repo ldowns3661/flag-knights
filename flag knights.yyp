@@ -3,7 +3,6 @@
     {"id":{"name":"hud","path":"objects/hud/hud.yy",},"order":6,},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},"order":1,},
     {"id":{"name":"Ostars","path":"objects/Ostars/Ostars.yy",},"order":8,},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":17,},
     {"id":{"name":"Splayerwalking","path":"scripts/Splayerwalking/Splayerwalking.yy",},"order":4,},
@@ -18,7 +17,6 @@
     {"id":{"name":"puzzle","path":"objects/puzzle/puzzle.yy",},"order":7,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"P2J","path":"sprites/P2J/P2J.yy",},"order":12,},
-    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":15,},
     {"id":{"name":"Ostart","path":"objects/Ostart/Ostart.yy",},"order":11,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":5,},
     {"id":{"name":"oPlayer2","path":"objects/oPlayer2/oPlayer2.yy",},"order":2,},
@@ -51,9 +49,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"start","path":"rooms/start/start.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":12,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
