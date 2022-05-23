@@ -17,8 +17,8 @@ sprite_array[states.jumping]= P2J;
 
 
 state = states.walking;
-
-
+ 
+ 
 global.Spoints = 0;
 player = 2;
 

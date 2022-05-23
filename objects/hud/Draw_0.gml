@@ -3,6 +3,7 @@
 draw_text(32,32,"OGRE: " + string(global.OPoints))
 draw_text(32,64,"SLIME: " + string(global.Spoints))
 
+
 if global.OPoints = 10
 {
 draw_text(451,381,"Ogre wins")
